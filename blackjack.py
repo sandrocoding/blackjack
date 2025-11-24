@@ -2,6 +2,8 @@
 Gioco del Blackjack
 Versione 1.0
 
+-- Versione preliminare
+
 '''
 
 import random
@@ -180,6 +182,7 @@ def gioca_blackjack():
 
 if __name__ == "__main__":
     gioca_blackjack()
+
 
 
 
